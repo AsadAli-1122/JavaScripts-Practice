@@ -507,6 +507,74 @@ document.write("11. Write a program to create a calculator for +,-,*, / & % usin
                     // Chapter 9-10 end
 
 
+                    // Chapter 12-13 start
+
+document.write("<h3>Chapter 12-13</h3>");
+
+document.write("1. Write a program that takes a character (number or string) in a variable & checks whether the given input is a number, uppercase letter or lower case letter. (Hint: ASCII codes:- A=65, Z=90, a=97, z=122).<br>");
+
+document.write("2. Write a JavaScript program that accept two integers and display the larger. Also show if the two integers are equal.<br>");
+// var x = +prompt("Number One : ");
+// var y = +prompt("Number Two : ");
+// if(x < y){
+//     document.write("First Number is less then 2nd number");
+// }else if(x == y){
+//     document.write("First Number is equal to 2nd number");
+// }else{
+//     document.write("First Number is greatr then 2nd number");
+// };
+
+document.write("3. Write a program that takes input a number from user & state whether the number is positive, negative or zero.<br>");
+// var x = +prompt("input any Number");
+// if(x < 0){
+//     document.write("Your input value is negative.");
+// }else if(x == 0){
+//     document.write("Your input value is Zero.");
+// }else{
+//     document.write("Your input value is positive.");
+// };
+
+document.write("4. Write a program that takes a character (i.e. string of length 1) and returns true if it is a vowel, false otherwise<br>");
+// var x = prompt("Write any Alphabet");
+// if(x == "a" || x == "A"){
+//     document.write(x + " is vowel");
+// }else if(x == "e" || x == "E"){
+//     document.write(x + " is vowel");
+// }else if(x == "i" || x == "I"){
+//     document.write(x + " is vowel");
+// }else if(x == "o" || x == "O"){
+//     document.write(x + " is vowel");
+// }else if(x == "u" || x == "U"){
+//     document.write(x + " is vowel");
+// }else{
+//     document.write(x + " is consonants")
+// };
+
+document.write("5. Write a program that<br>a. Store correct password in a JS variable.<br>b. Asks user to enter his/her password<br>c. Validate the two passwords:<br>i. Check if user has entered password. If not, then give message “ Please enter your password”<br>ii. Check if both passwords are same. If they are same, show message “Correct! The password you entered matches the original password”. Show “Incorrect password” otherwise.<br>");
+// var password = prompt("Please enter your password");
+// var correctPassword = prompt("Again enter your password");
+// var result = (password == correctPassword)? 'Correct! The password you entered matches' : 'Incorrect password';
+// document.write(result);
+
+document.write("6. This if/else statement does not work. Try to fix it:<br>var greeting;<br>var hour = 13;<br>if (hour < 18) {<br>greeting = Good day;<br>else<br>greeting = Good evening;<br>}<br>");
+// var time = +prompt("Time : (24 hours clock format )");
+// var result = (time < 18)? "Good day" : "Good evening" ;
+// document.write(result);
+
+document.write("7. Write a program that takes time as input from user in 24 hours clock format like: 1900 = 7pm. Implement the following case using if, else & else if statements<br>");
+// var time = +prompt("Time : (24 hours clock format )");
+// if(time >= 0 && time <= 12){
+//     document.write("Good Morning");
+// }else if(time >= 12 && time <= 17){
+//     document.write("Good Afternoon");
+// }else if(time >= 17 && time <= 21){
+//     document.write("Good Evening");
+// }else if(time >= 21 && time <= 23.59){
+//     document.write("Good Night");
+// };
+
+                    // Chapter 12-13 end
+
 
 
 
