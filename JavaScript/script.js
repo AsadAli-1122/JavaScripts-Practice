@@ -38,11 +38,11 @@ document.write("<p>2. Declare a variable called myName & assign to it a string t
 // var myName = "Ali"
 // document.write("My name is " + myName + ". I'm new here.");
 
-document.write("3. Write script to <br> a) Declare a JS variable, titled message.<br> b) Assign “Hello World” to variable message. <br> c) Display the message in alert box.");
+document.write("3. Write script to <br> a) Declare a JS variable, titled message.<br> b) Assign “Hello World” to variable message. <br> c) Display the message in alert box.<br>");
 // var message = "Hello World";
 // alert(message);
 
-document.write("4. Write a script to save student’s bio data in JS variables and show the data in alert boxes.")
+document.write("4. Write a script to save student’s bio data in JS variables and show the data in alert boxes.<br>")
 // var nam = "Ali";
 // var age = 26;
 // var clas = "Intermediate";
@@ -51,22 +51,22 @@ document.write("4. Write a script to save student’s bio data in JS variables a
 // alert(age + " years old");
 // alert("Certified Mobile Application Development");
 
-document.write("5. Write a script to display the following alert using one JS variable:");
+document.write("5. Write a script to display the following alert using one JS variable:<br>");
 // var food = 5;
 // alert( food-- + "\n" + food-- + "\n" + food-- + "\n" + food-- + "\n" + food--);
 
-document.write("6. Declare a variable called email and assign to it a string that represents your Email Address(e.g. example@example.com). Show the blow mentioned message in an alert box.(Hint:use string concatenation)");
+document.write("6. Declare a variable called email and assign to it a string that represents your Email Address(e.g. example@example.com). Show the blow mentioned message in an alert box.(Hint:use string concatenation)<br>");
 // var email = "example@example.com";
 // alert("My email address is " + email + "Visit.");
 
-document.write("7. Declare a variable called book & give it the value “A smarter way to learn JavaScript”. Display the followingmessage in an alert box:")
+document.write("7. Declare a variable called book & give it the value “A smarter way to learn JavaScript”. Display the followingmessage in an alert box:<br>")
 // var book = "A smarter way to learn JavaScript";
 // alert("I am trying to learn from Book " + book);
 
 document.write("8. Write a script to display this in browser through JS. <br>");
 // document.write("Yah! I can write HTML content through JavaSrcipt.");
 
-document.write("9. Store following string in a variable and show in alert and browser through JS <br> “=========ஜ۩۞۩ஜ=========”")
+document.write("9. Store following string in a variable and show in alert and browser through JS <br> “=========ஜ۩۞۩ஜ=========”<br>")
 // alert("=========ஜ۩۞۩ஜ=========");
 
                     // Chapter 2 end
@@ -76,22 +76,22 @@ document.write("9. Store following string in a variable and show in alert and br
 
 document.write("<h3>Chapter 3</h3>")
 
-document.write("1. Declare a variable called age & assign to it your age. Showyour age in an alert box.");
+document.write("1. Declare a variable called age & assign to it your age. Showyour age in an alert box.<br>");
 // var age = 26;
 // alert("I am " + age + " years old");
 
-document.write("2. Declare & initialize a variable to keep track of how many times a visitor has visited a web page. Show his/her number of visits on your web page. For example: “You have visited this site N times”.")
+document.write("2. Declare & initialize a variable to keep track of how many times a visitor has visited a web page. Show his/her number of visits on your web page. For example: “You have visited this site N times”.<br>")
 // var x = +prompt("How Many visiter here .");
 // alert("You have visited this site " + x + " times");
 
-document.write("3. Declare a variable called <b>birthYear</b> & assign to it your birth year. Show the following message in your browser:");
+document.write("3. Declare a variable called <b>birthYear</b> & assign to it your birth year. Show the following message in your browser:<br>");
 // document.write("<br>");
 // var birthYear = 1996;
 // document.write("My birth year is " + birthYear);
 // document.write("<br>");
 // document.write("Data type of my declared variable is " + typeof birthYear);
 
-document.write("4. A visitor visits an online clothing store www.xyzClothing.com . Write a script to store in variables the following information: <br> a. Visitor’s name <br> b. Product title <br> c. Quantity i.e. how many products a visitor wants to order Show the following message in your browser: “John Doe ordered 5 T-shirt(s) on XYZ Clothing store”.")
+document.write("4. A visitor visits an online clothing store www.xyzClothing.com . Write a script to store in variables the following information: <br> a. Visitor’s name <br> b. Product title <br> c. Quantity i.e. how many products a visitor wants to order Show the following message in your browser: “John Doe ordered 5 T-shirt(s) on XYZ Clothing store”.<br>")
 // var name = prompt("Your Name ");
 // var Product = prompt("What do you want to buy");
 // var Quantity = +prompt("How much " + Product + " you want to buy : Quantity ;");
@@ -104,17 +104,17 @@ document.write("4. A visitor visits an online clothing store www.xyzClothing.com
 
 document.write("<h3>Chapter 4</h3>");
 
-document.write("1. Declare 3 variables in one statement.");
+document.write("1. Declare 3 variables in one statement.<br>");
 // document.write("<br>");
 // var name = "Ali" , age = 26 , grade = "A";
 // document.write("My name is " + name + ". My age is " + age + " year old. Grade : " + grade);
 
-document.write("2. Declare 5 legal & illegal variable names.");
+document.write("2. Declare 5 legal & illegal variable names.<br>");
 // document.write("<br>");
 // var name, fullName,full_name, fullnam, x; //Legal variabls
 // var name& ,full name ,2ndName ,name: , full.name; //Illegal variables
 
-document.write("3. Display this in your browser <br> a) A heading stating “Rules for naming JS variables” <br>b) Variable names can only contain ______, ______,______ and ______.For example $my_1stVariable <br> c) Variables must begin with a ______, ______ or _____. For example $name, _name or name <br> d) Variable names are case _________ <br> e) Variable names should not be JS _________");
+document.write("3. Display this in your browser <br> a) A heading stating “Rules for naming JS variables” <br>b) Variable names can only contain ______, ______,______ and ______.For example $my_1stVariable <br> c) Variables must begin with a ______, ______ or _____. For example $name, _name or name <br> d) Variable names are case _________ <br> e) Variable names should not be JS _________<br>");
 // document.write("<br>");
 // document.write("<h4>Rules for naming JS variables</h4>");
 // document.write("Variable names can only contain , numbers, $ and _ .For example : $my_1stVariable");
@@ -131,7 +131,7 @@ document.write("3. Display this in your browser <br> a) A heading stating “Rul
 
 document.write("<h3>Chapter 5</h3>");
 
-document.write("1. Write a program that take two numbers & add them in a new variable. Show the result in your browser.<br>")
+document.write("1. Write a program that take two numbers & add them in a new variable. Show the result in your browser.<br>");
 // document.write("<br>");
 // var x = +prompt("Number 1 : ");
 // var y = +prompt("Number 2 : ");
@@ -146,7 +146,6 @@ document.write("2. Repeat task1 for subtraction, multiplication, division & modu
 // var mul = x*y;
 // var div = x/y;
 // var mod = x%y;
-// document.write("<br>");
 // document.write("Subtraction of " +x+ " and " +y+ " is " + sub);
 // document.write("<br>");
 // document.write("Multiplication of " +x+ " and " +y+ " is " + mul);
@@ -512,6 +511,18 @@ document.write("11. Write a program to create a calculator for +,-,*, / & % usin
 document.write("<h3>Chapter 12-13</h3>");
 
 document.write("1. Write a program that takes a character (number or string) in a variable & checks whether the given input is a number, uppercase letter or lower case letter. (Hint: ASCII codes:- A=65, Z=90, a=97, z=122).<br>");
+// var x = prompt("Write any number or alphabat or symbol.")
+// if(x >= "A" && x <= "Z"){
+//     document.write(x + " is upper case Alphabat");
+// }else if(x >= "a" && x <= "z"){
+//     document.write(x + " is lower case Alphabat");
+// }else if(x >= 0 || x <= 0){
+//     document.write(x + " is Number");
+// }else{
+//     document.write(x + " is symbol")
+// };
+// var y = x.charCodeAt(0);
+// document.write(". <br> ASCII code of " + x + " is " + y);
 
 document.write("2. Write a JavaScript program that accept two integers and display the larger. Also show if the two integers are equal.<br>");
 // var x = +prompt("Number One : ");
