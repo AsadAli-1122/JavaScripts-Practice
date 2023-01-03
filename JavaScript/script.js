@@ -52,8 +52,7 @@ document.write("4. Write a script to save student’s bio data in JS variables a
 // alert("Certified Mobile Application Development");
 
 document.write("5. Write a script to display the following alert using one JS variable:<br>");
-// var food = 5;
-// alert( food-- + "\n" + food-- + "\n" + food-- + "\n" + food-- + "\n" + food--);
+// alert("PIZZA\nPIZZ\nPIZ\nPI\nP");
 
 document.write("6. Declare a variable called email and assign to it a string that represents your Email Address(e.g. example@example.com). Show the blow mentioned message in an alert box.(Hint:use string concatenation)<br>");
 // var email = "example@example.com";
